@@ -1,6 +1,6 @@
 # Python-Exercises
 
-# Curso-Python
+# Python
 Python progress
 
 # Python Exercises and projects 🐍
