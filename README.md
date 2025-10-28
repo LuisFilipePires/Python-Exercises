@@ -3,7 +3,7 @@
 # Curso-Python
 Python progress
 
-# Python Course 🐍
+# Python Exercises and projects 🐍
 Repository with my projects from the Python course.  
 YouTube channel: <a href="https://www.youtube.com/watch?v=ZLCZkMk69y0&list=PLA1FTfKBAEX40W8OeycI8S5ltunvS8CWw" target="_blank">👉 Click here</a>
 
